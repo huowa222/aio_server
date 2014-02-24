@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2003  Manfred Andres
+ * Copyright (C) 2012   howard
  * 
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
@@ -54,11 +54,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.net.UnknownHostException;
-/**
- * 
- * @author Manfred Andres
- *
- */
+
 public class Server implements IReloadable {
 	// the versionstring for this release
 	private static final String VERSION = "1.3.20111224";
